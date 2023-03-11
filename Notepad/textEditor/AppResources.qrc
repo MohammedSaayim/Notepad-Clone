@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/button.png</file>
+        <file>Images/copy.svg</file>
+        <file>Images/cutting.png</file>
+        <file>Images/diskette.png</file>
+        <file>Images/folder.png</file>
+        <file>Images/icons8-down-3-30.png</file>
+        <file>Images/icons8-downward-arrow-30.png</file>
+        <file>Images/icons8-loading-bar-30.png</file>
+        <file>Images/icons8-replace-30.png</file>
+        <file>Images/icons8-select-all-30.png</file>
+        <file>Images/icons8-word-wrap-50.png</file>
+        <file>Images/icons8-zoom-60 (1).png</file>
+        <file>Images/icons8-zoom-60.png</file>
+        <file>Images/icons8-zoom-64.png</file>
+        <file>Images/info-circle.svg</file>
+        <file>Images/paste.png</file>
+        <file>Images/remove.png</file>
+        <file>Images/saveAs.png</file>
+        <file>Images/search.png</file>
+        <file>Images/undo-circular-arrow.png</file>
+        <file>Images/icons8-shortcut-50.png</file>
+    </qresource>
+</RCC>
